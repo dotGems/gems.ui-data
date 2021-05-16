@@ -1,7 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Sample Title",
+    "title": "Introducing GBK.gems Collection",
+    "imgUrl": "https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3515&q=80",
     "collection_name": "gbk.gems",
     "artist": "jan.gem",
     "content": [
@@ -38,6 +39,7 @@
   {
     "id": 2,
     "title": "Sample Title",
+    "imgUrl": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3666&q=80",
     "collection_name": "gbk.gems",
     "artist": "jan.gem",
     "content": [
@@ -73,7 +75,8 @@
   },
   {
     "id": 3,
-    "title": "Sample Title",
+    "title": "Welcome Master of Desaster: jan.gem",
+    "imgUrl": "https://images.unsplash.com/photo-1482160549825-59d1b23cb208?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3450&q=80",
     "collection_name": "gbk.gems",
     "artist": "jan.gem",
     "content": [
@@ -109,7 +112,8 @@
   },
   {
     "id": 4,
-    "title": "Sample Title",
+    "title": "And another, longer Sample Title for testing",
+    "imgUrl": "https://images.unsplash.com/photo-1493210977798-4f655ac200a9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1762&q=80",
     "collection_name": "gbk.gems",
     "artist": "jan.gem",
     "content": [
