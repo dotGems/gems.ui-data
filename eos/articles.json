@@ -6,20 +6,20 @@
     "artist": "jan.gem",
     "content": [
       {
-        id: 1,
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
       },
       {
-        id: 2,
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "id": 2,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
       },
       {
-        id: 3,
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "id": 3,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
       },
       {
-        id: 4,
-        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "id": 4,
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
       }
     ],
     "links": [
