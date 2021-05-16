@@ -3,7 +3,11 @@
     "id": 1,
     "collection_name": "gbk.gems",
     "title": "Sample Title",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!",
+    "paragraphs": [
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!",
+    ]
     "links": [
       {
         "id": 1,
