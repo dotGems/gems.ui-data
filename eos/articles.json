@@ -70,6 +70,11 @@
         "id": 2,
         "label": "Google",
         "url": "https://google.com"
+      },
+      {
+        "id": 3,
+        "label": "Tools",
+        "url": "https://neftyblocks.com"
       }
     ]
   },
