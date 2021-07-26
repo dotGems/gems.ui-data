@@ -2,18 +2,18 @@
   {
     "id": 1,
     "collection_name": "gbk.gems",
-    "title": "Sample Title",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!",
+    "title": "Green NFTs Manifesto",
+    "content": ".gems’ mission is to onboard artists onto the blockchain, help them publish their art as NFTs and do so in an environmentally sustainable way.As .gems only publishes NFTs on the EOS & WAX networks, artists and collectors can be assured that our NFTs are not negatively impacting the environment when being created, or when being transferred or traded on secondary markets.On top of that, and due to the highly efficient design of these DPoS networks, WAX and EOS can offer feeless transactions to their users, allowing a great user-experience for collectors as they trade or interact with NFTs, without having to worry about annoying and sometimes prohibitive gas fees found on other networks.",
     "links": [
       {
         "id": 1,
-        "label": "EOS Nation Website",
-        "url": "https://eosnation.io"
+        "label": "Learn More",
+        "url": "https://eosnation.io/green/"
       },
       {
         "id": 2,
-        "label": "Google",
-        "url": "https://google.com"
+        "label": ".gems",
+        "url": "https://dotgems.io"
       }
     ]
   }
