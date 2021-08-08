@@ -80,75 +80,75 @@
   },
   {
     "id": 3,
-    "title": "Welcome Master of Desaster: jan.gem",
-    "imgUrl": "https://images.unsplash.com/photo-1482160549825-59d1b23cb208?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3450&q=80",
-    "collection_name": "gbk.gems",
-    "artist": "jan.gem",
+    "title": ".gems’ Green NFTs Manifesto",
+    "imgUrl": "https://i0.wp.com/eosnation.io/wp-content/uploads/2021/05/Green-Manifesto-Headers-Photo-by-Jay-Mantri.001.003.jpeg?w=1920&ssl=1",
+    "collection_name": ".gems",
+    "artist": "jan.gems",
     "content": [
       {
         "id": 1,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": ".gems’ mission is to onboard artists onto the blockchain, help them publish their art as NFTs and do so in an environmentally sustainable way."
       },
       {
         "id": 2,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": "In fact, .gems’ parent company, EOS Nation, has been a leading block producer in charge of processing transactions and securing the environmentally friendly delegated-proof-of-stake (DPoS) EOS & WAX blockchain networks since 2018 & 2019 respectively."
       },
       {
         "id": 3,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": "EOS Nation’s creation in 2018 was based on the premise that highly efficient and environmentally friendly delegated-proof-of-stake networks would eventually become very attractive for a wide range of use cases."
       },
       {
         "id": 4,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": "In 2020, Stéphane Bisson, Co-founder and Chief Community Officer of EOS Nation and Martin Breuer, Regional Director of Asia and EOS Nation’s first employee, started the .gems NFT Studio & Creative Agency in anticipation of a surge of demand from artists looking to publish their art on environmentally-conscious blockchain networks."
       }
     ],
     "links": [
       {
         "id": 1,
-        "label": "EOS Nation Website",
-        "url": "https://eosnation.io"
+        "label": "Read More",
+        "url": "https://eosnation.io/green/"
       },
       {
         "id": 2,
-        "label": "Google",
-        "url": "https://google.com"
+        "label": "Video",
+        "url": "https://youtu.be/VvmLWczNnyY"
       }
     ]
   },
   {
     "id": 4,
-    "title": "And another, longer Sample Title for testing",
-    "imgUrl": "https://images.unsplash.com/photo-1493210977798-4f655ac200a9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1762&q=80",
-    "collection_name": "gbk.gems",
+    "title": "Pomelo NFTs",
+    "imgUrl": "https://i1.wp.com/eosnation.io/wp-content/uploads/2021/08/PomeloTwitterAd.png?w=1600&ssl=1",
+    "collection_name": ".gems",
     "artist": "jan.gem",
     "content": [
       {
         "id": 1,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": "The promotional Pomelo NFT series is aimed at further engaging the EOS community while also providing educational information about various aspects of the upcoming Pomelo platform."
       },
       {
         "id": 2,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": "There are 4 elements in the initial collection. Seeds, Soil, Water and Sun - each representing an important pillar in the EOS ecosystem and driver within the Pomelo Crowdfunding Plattform"
       },
       {
         "id": 3,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": "Using the blend.gems smart contract can be converted into a Pomelo tree NFT, which over time grows Pomelo NFTs that can be claimed by the collectors."
       },
       {
         "id": 4,
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quos, repudiandae. Ab alias culpa cum doloribusea ex fugiat harum laboriosam minus natus nemo perspiciatis placeat quas repudiandae, sint, voluptatem!"
+        "text": "All primary revenu of the .gems Pomelo NFT series will be donated to the matching pool for the first round of funding later this year."
       }
     ],
     "links": [
       {
         "id": 1,
-        "label": "EOS Nation Website",
-        "url": "https://eosnation.io"
+        "label": "Learn more about Pomelo",
+        "url": "https://pomelo.io/"
       },
       {
         "id": 2,
-        "label": "Google",
-        "url": "https://google.com"
+        "label": "Blend your Pomelo tree",
+        "url": "https://blend.dotgems.io/"
       }
     ]
   }
