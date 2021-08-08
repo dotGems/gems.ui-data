@@ -1,6 +1,31 @@
 [
    {
     "id": 1,
+    "title": "VR Graffiti Battles",
+    "imgUrl": "https://i0.wp.com/eosnation.io/wp-content/uploads/2021/05/1-1.png?w=1920&ssl=1",
+    "collection_name": "graffbattles",
+    "artist": "street.gems",
+    "content": [
+      {
+        "id": 1,
+        "text": ".gems’ mission is to onboard artists onto the blockchain, help them publish their art as NFTs and do so in an environmentally sustainable way.As .gems only publishes NFTs on the EOS & WAX networks, artists and collectors can be assured that our NFTs are not negatively impacting the environment when being created, or when being transferred or traded on secondary markets.On top of that, and due to the highly efficient design of these DPoS networks, WAX and EOS can offer feeless transactions to their users, allowing a great user-experience for collectors as they trade or interact with NFTs, without having to worry about annoying and sometimes prohibitive gas fees found on other networks."
+      }
+    ],
+    "links": [
+      {
+        "id": 1,
+        "label": "Learn More",
+        "url": "https://eosnation.io/virtual-reality-graffiti-battles/"
+      },
+      {
+        "id": 2,
+        "label": "VRGB in the Metaverse",
+        "url": "https://www.cryptovoxels.com/play?coords=W@611W,671S,12.5F"
+      }
+    ]
+  },
+  {
+    "id": 2,
     "title": "Green NFTs Manifesto",
     "imgUrl": "https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3515&q=80",
     "collection_name": "rgbirenecruz",
@@ -23,5 +48,3 @@
         "url": "https://dotgems.io"
       }
     ]
-  }
-]
